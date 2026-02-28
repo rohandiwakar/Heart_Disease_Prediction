@@ -71,4 +71,24 @@ The model uses the following medical parameters:
 
 ```bash
 git clone https://github.com/your-username/heart-disease-prediction.git
-cd heart-disease-prediction
+```
+
+### 2️⃣ Go to Project Directory
+```bash
+cd crop-recommendation-system
+```
+
+### 3️⃣ Install Required Libraries
+```bash
+pip install numpy pandas matplotlib scikit-learn
+```
+
+### 4️⃣ Run the Project
+```bash
+streamlit run app.py
+```
+
+## 🛠️ Tools Used
+```bash
+  PyCharm (IDE)
+```
